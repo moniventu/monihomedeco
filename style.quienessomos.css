@@ -1,0 +1,18 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+body{
+    background-image: url(imagenes/logoopaco.jpg);
+}
+.yo{
+    float: left;
+    vertical-align: middle;
+    margin: auto;
+    padding: 20px;
+}
+.presentacion{
+   margin-top: 20px;
+   padding: 20px;
+   text-align: justify;
+}

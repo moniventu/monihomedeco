@@ -1,0 +1,121 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 16px;
+    background-image: url(imagenes/logoopaco.jpg);
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 10rem;
+    color: rgb(105, 15, 33);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0 auto;
+    padding: 3rem;
+}
+h2{
+    font-size: 2rem;
+    text-align: center;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+h5{
+    color: rgb(90, 10, 26); 
+    font-size: xx-large;
+}
+h6{
+    color: rgb(143, 22, 46); 
+    font-size: x-large;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.marca{
+    background-color: darksalmon;
+    opacity: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-compras { 
+    margin: 0 4rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-secciones{
+    font-size: large;
+    width: 100rem;
+    margin: 0 auto;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.whatsapp{
+    position: fixed;
+    right: 20px;
+    z-index: 1;
+}
+.carousel-inner img{
+    width: auto;
+    height: 250px;
+    opacity: 50%;
+}
+.categorias{
+    width: 100rem;
+    margin: 0 auto;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.productos{
+    width: 130rem;
+    margin: 0 auto;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.giftcard{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1rem;
+}
+.feedback{
+    margin: 1rem;
+    display: flex;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.newsletter{
+    margin: 2rem auto;
+    padding: 1rem;  
+}
+.contacto{
+    box-sizing: content-box;
+    width: 50rem;
+    font-size: medium;
+}
+.ubicacion{
+    box-sizing: content-box;
+    width: 50rem;
+}
+.nav-final{
+    margin: 0 15rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.accesos{
+    margin: 0 15rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
